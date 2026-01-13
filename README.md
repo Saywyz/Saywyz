@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am an **AI Engineer** specialized in **Artificial Intelligence & Data**.
+I am an **Engineer** specialized in **Artificial Intelligence & Data**.
 This GitHub profile gives an overall overview of my personal work and some projects I did during my studies.
 
 
